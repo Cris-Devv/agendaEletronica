@@ -25,9 +25,10 @@ A **Agenda Eletrônica** é uma aplicação web que busca organizar seus afazere
 
 ## 📖 Uso
 
-Para utilizar, basta baixar ou clonar o projeto e ligar o servidor Apache e o MySQL através do programa XAMPP, adicionando a pasta do projeto na pasta htdocs no local de instalação do XAMPP.
-Para acessar, basta digitar [Localhost/agendaEletronica] e o projeto irá abrir.
-Tenha certeza de ligar o MySQL na porta '3306', a porta padrão do MySQL.
+<p>Para utilizar, basta baixar ou clonar o projeto e ligar o servidor Apache e o MySQL através do programa XAMPP, adicionando a pasta do projeto na pasta htdocs no local de instalação do XAMPP.</p>
+<br>
+<p>Para acessar, basta digitar [Localhost/agendaEletronica] e o projeto irá abrir.</p>
+<p>Tenha certeza de ligar o MySQL na porta '3306', a porta padrão do MySQL.</p>
 
 ## 📁 Estrutura do projeto
 
